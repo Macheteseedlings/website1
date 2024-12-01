@@ -1,2 +1,4 @@
-http://macheteseedlings.au/sitemap.txt
-https://macheteseedlings.au/sitemap.txt
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://macheteseedlings.au
