@@ -1,0 +1,95 @@
+
+<html>
+<!DOCTYPE html>
+<link rel="icon" type="image/x-icon" href="../icon.png">
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body style="color:#d4d4d4">
+    <style type="text/css">
+  a:hover {
+  background-color: #d11dc2;
+  font-size: 18px;
+}
+
+
+body {
+    background: linear-gradient(
+        to right,
+        black 0%,
+        black 80%,
+        #cc0052 50%,
+       #cc0052 100%
+    );
+    padding: 50px;
+   
+    color: black;
+}
+  </style>
+
+<h1 style="color: #ffcce0;">____________________________</h1>
+
+    <nav>
+      <a href="../index.html"style="color: #d4d4d4">Home</a>
+
+
+      <a href="hobby.html" style="color: #d4d4d4"> -- Hobby research </span> </a>
+
+      <a href="project.html" style="color: #d4d4d4"> -- Projects </a>
+<h4>
+      <a href="contact.html" style="color:#d4d4d4"> Contact </a>
+      <a href="service.html" style="color: #d4d4d4"> --- PRODUCTS & SERVICES ---</a> 
+      
+      
+ <span style="float:right;">
+      Isopod cultures (28/11/2024)<br> <br> Sanseviera (snake plant) in stock
+    </span>
+
+
+
+
+
+</h4>
+    </nav>
+  </body>
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+	</head> 
+<h1 style="color: #ffcce0;">____________________________</h1>
+	<title>Machete Seedlings (Blog)</title>
+ 
+	<body bgcolor=#10100b style="color:#d4d4d4">
+
+
+
+	<div> <h1><img src="../icon.png"> Machete Seedlings (Blog)</h1></div>
+	</head> 
+	<body bgcolor=#10100b style="color:#d4d4d4">
+<head>	
+<style>
+
+p {
+  padding: 8px;
+}
+</style>
+</head>
+
+	<h1 align="center" style="color: #ffcce0">__________________________________</h1>
+				<p align="center"><img src="macheteseedlings/photos/product/isopoda/iso.png" alt="" /><p>
+		<h1 align="center">Isopod cultures available!</h1>
+	
+		<p align="center"> We have a select few species of isopods currently culturing in base. <br>They help with breakdown of organic matter (feeds on dead OM) and take up heavy<br> metals in the soil. Creates frass compost
+		and helps with aeration of the soil<br> and thereby reducing mold and improving soil structure. Currently<br> we can only supply small amounts of these species but will aim to grow more if there's
+		<br>demand for it. (28/11/2024) </p>
+
+		<h1 align="center" style="color: #ffcce0">_______________________________________________</h1>
+
+
+</html>
+
+
+
